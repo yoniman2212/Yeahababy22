@@ -7,7 +7,7 @@ on:
 env:
   name: "RE4"
   comment: "Resident Evil 4 "
-  url: "http://dl.coolrom.com.au/dl/41800/-1RGZnWdRy6Lr7N4vxbHOw/1609685342/"
+  url: "http://dl.coolrom.com.au/dl/41800/b_ZvyWpuGGQnF71_ZUvGGA/1609687941/"
   file_name: "ROM RESIDENT EVIL 4"
   piece_size: 19 # 2^21
       
